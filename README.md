@@ -1,1 +1,1 @@
-My first readme is updated 
+This is my first repository as a full-stack engineer 
